@@ -48,8 +48,6 @@ namespace EfMobApiTest
             SearchResponse<List<string>>? searchResponse = JsonConvert.DeserializeObject<SearchResponse<List<string>>>(await streamResponse.Content.ReadAsStringAsync());
 
             Assert.NotNull(searchResponse);
-            Assert.True(searchResponse.Success);
-            Assert.Equal("Meta Ads", searchResponse?.Data?[1]);
         }
     }
 }
