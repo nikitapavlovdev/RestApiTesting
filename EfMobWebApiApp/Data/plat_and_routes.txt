@@ -1,0 +1,15 @@
+Крутая реклама:/ru,/ru/svrd,/en,/de
+Яндекс.Директ:/ru,/ru/msk,/ru/spb,/ru/svrd
+VK Ads:/ru,/ru/msk,/en
+Meta Ads:/en,/en/uk,/en/us,/de
+Google Ads:/en,/en/us,/en/uk,/fr,/es
+TikTok Ads:/en,/ru,/ru/spb,/asia,/asia/jp
+Авито:/ru,/ru/msk,/ru/spb,/ru/kzn
+Ozon:/ru,/ru/msk,/ru/spb,/ru/ekb
+Wildberries:/ru,/ru/spb,/ru/kzn,/ru/ekb
+AliExpress:/ru,/ru/msk,/en,/asia,/asia/cn
+Mail.Ru Реклама:/ru,/ru/msk,/ru/spb
+MyTarget:/ru,/ru/spb,/ru/ekb,/en
+Rambler Ads:/ru,/ru/msk,/ru/spb
+Ростелеком Медиа:/ru,/ru/msk,/ru/svrd
+Ok.ru:/ru,/ru/spb,/ru/ekb
