@@ -8,7 +8,7 @@ API реализовано с использованием **Minimal API**.
 
 1. Склонировать проект на локальную машину
 ```bash
-   git clone https://github.com/nikitapavlovdev/EfMobTestingTask.git
+   git clone https://github.com/nikitapavlovdev/RestApiTesting.git
 ```
 2. Открыть решение `EfMobWebApiApp.sln`, в котором содержится два проекта: `EfMobApiTest.csproj` и `EfMobWebApiApp.csproj`.
 
